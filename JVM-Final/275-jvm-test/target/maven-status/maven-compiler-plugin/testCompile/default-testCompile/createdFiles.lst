@@ -1,0 +1,5 @@
+cases\TestUtil.class
+cases\light\LightEasyTestUtilTest.class
+cases\light\LightEasyBranchTest.class
+cases\light\LightEasyStaticTest.class
+light\LightEasyTest.class
